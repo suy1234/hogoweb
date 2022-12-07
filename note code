@@ -1,0 +1,30 @@
+Khach hang
+- Hinh anh (CMND),
+- So gio hoc
+- Cac filer theo cua CMND
+	- dien thoai
+	- Email
+
+Module thu chi
+Module quan ly trung tam *********
+
+Lớp
+	- Học viên
+	- Khóa học
+	- Môn
+	- Số giờ học lý thuyết
+	- Số giờ học thực hành
+	- Ngay thi Tot nghiem ( Dua tren mon)
+	- ngay thi sac hach tam tinh ( Dua tren mon + 30 ngay)
+	- Ngay thi hac sach chinh thuc
+	- max hoc vien
+Check in Học viên
+	- Học viên
+	- Lịch học
+	- Giờ vào 
+	- Giờ ra
+	- Số giờ
+Lịch học
+	- Khoản thời gian
+	- Giao viên
+	- số lượng giờ
