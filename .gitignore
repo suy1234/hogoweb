@@ -1,12 +1,11 @@
 /node_modules
-/public/hot
-/public/storage
-/public/uploads
-/public/export
+/public/kh
 /storage
 /vendor
 /website
+/web
 /japan
+/bootstrap/cache
 .env
 .env.backup
 .phpunit.result.cache
@@ -17,3 +16,4 @@ npm-debug.log
 yarn-error.log
 composer.lock
 /public/export
+.vscode
